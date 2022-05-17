@@ -9,7 +9,7 @@ import MyComponent from './MyComponent';
 function App() {
   return (
     <div className='App'>
-        <h1>Iframest</h1>
+        <h1>i</h1>
         <CustomIframe >
            <MyComponent />
         </CustomIframe>

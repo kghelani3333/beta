@@ -34,7 +34,7 @@ function MyComponent() {
       <ul>
         {items.map(item => (
           <li key={item.userId}>
-            {item.id} {item.title}  {item.completed}
+            {item.id}  {item.title}  {item.completed}
           </li>
         ))}
       </ul>
